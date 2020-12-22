@@ -1,6 +1,6 @@
-# QuantumMusketeers
+# QuantumMusketeers 
 Repository for  BosonQ Psi Quantum Hackathon
-Stage2_Quantumusketeers Result Summary
+Stage2_QuantumMusketeers.ipynb Result Summary
 
 Depth: 129
 Circuit Cost: 1779
